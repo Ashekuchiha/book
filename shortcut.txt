@@ -1,0 +1,8 @@
+git init
+$ git add -A && git commit -m "my message"
+git log
+git status
+git remote add any_name url
+git branch -M main/master
+
+git push -u any_name main/master
